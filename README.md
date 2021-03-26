@@ -16,7 +16,7 @@ Once you've started jupyter notebooks with the command ```jupyter notebook``` yo
 
 Click on the ```notebooks``` folder and select your notebook of choice to see the code demonstration.
 
-
+_______________________
 pytesseract application
 
 for windows 32bit https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w32-setup-v5.0.0-alpha.20201127.exe
